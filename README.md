@@ -6,4 +6,4 @@
 
 ### Мой LeetCode
 
-[![website](./logo/leetcode.svg)](https://leetcode.com/u/PEMOHTOKOH/)
+[![website](./logo/leetcode.svg)](https://leetcode.com/u/apartapatia/)
