@@ -9,3 +9,7 @@
 </div>
 
 ---
+
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
+[![SadServers](https://img.shields.io/badge/Certificates-000000?style=for-the-badge&logo=linux&logoColor=white)](./certs/)
